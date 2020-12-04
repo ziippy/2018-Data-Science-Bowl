@@ -1,0 +1,9 @@
+# Directories.
+__pycache__/*
+_dataset/__pycache__/*
+nets/__pycache__/*
+utils/__pycache__/*
+
+logdir/*
+models/*
+checkpoints/*
